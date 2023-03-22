@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 15pt;
+}
+
+h1 {
+  color: red;
+  padding-bottom: 10px;
+}
+
+p {
+  color: dimgrey;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: red;
+  color: black;
+  padding: 7px 10px 7px 10px;
+  margin: 250px 10px 10px 10px;
+  font-weight: bold;
+}
